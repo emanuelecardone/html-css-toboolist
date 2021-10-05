@@ -29,7 +29,6 @@ header{
 
 /* Bottoni */
 .buttons{
-    margin-left: 195px;
     margin-top: 65px;
 }
 
@@ -51,7 +50,6 @@ header{
 /* Modifiche liste e punti elenco */
 .macrolista{
     margin-top: 40px;
-    margin-left: 195px;
     list-style-type: none;
 }
 
