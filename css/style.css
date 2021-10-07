@@ -6,11 +6,13 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #d3d8dc;
 }
 
 /* Header */
 header{
-    margin-top: 10px;
+    padding-top: 10px;
+    background-color: white;
 }
 
 #logo{
@@ -24,12 +26,23 @@ header{
 }
 
 .container{
-    margin-left: 195px;
+    width: 50%;
+    padding-bottom: 10px;
+    background-color: white;
+    padding-left: 40px;
+    margin: auto;
+}
+
+main{
+   
+    padding-top: 50px;
+    
 }
 
 /* Bottoni */
 .buttons{
-    margin-top: 65px;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 #btask{
@@ -48,8 +61,9 @@ header{
 }
 
 /* Modifiche liste e punti elenco */
+
 .macrolista{
-    margin-top: 40px;
+    border-top: 1px solid #d3d8dc;
     list-style-type: none;
 }
 
